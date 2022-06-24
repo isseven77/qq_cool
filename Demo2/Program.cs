@@ -31,6 +31,8 @@ namespace Demo2
                 }
                 else{
                     Console.WriteLine("主任:我干不了,你去找经理吧");
+
+
                     this.GetHandler().Dohandler(day);
                     //this.SetHandler(new JL());
 
