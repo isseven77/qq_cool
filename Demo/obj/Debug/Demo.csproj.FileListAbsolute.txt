@@ -1,0 +1,8 @@
+C:\Users\zhang\Desktop\Demo_2022-06-23\Demo\bin\Debug\Demo.exe.config
+C:\Users\zhang\Desktop\Demo_2022-06-23\Demo\bin\Debug\Demo.exe
+C:\Users\zhang\Desktop\Demo_2022-06-23\Demo\bin\Debug\Demo.pdb
+C:\Users\zhang\Desktop\Demo_2022-06-23\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+C:\Users\zhang\Desktop\Demo_2022-06-23\Demo\obj\Debug\Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\zhang\Desktop\Demo_2022-06-23\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\zhang\Desktop\Demo_2022-06-23\Demo\obj\Debug\Demo.exe
+C:\Users\zhang\Desktop\Demo_2022-06-23\Demo\obj\Debug\Demo.pdb
