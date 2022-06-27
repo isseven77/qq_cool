@@ -16,6 +16,8 @@ namespace Demo
             {
                 if (!mutex.WaitOne(5000,false))
                 {
+
+
                     Console.WriteLine("start");
                     Console.ReadKey();
                     return;
